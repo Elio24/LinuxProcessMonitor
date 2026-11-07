@@ -1,5 +1,7 @@
 # LP25 — Moniteur de processus
 
+Projet réalisé en équipe.
+
 Projet en C inspiré de `htop`. Il affiche les processus Linux dans le terminal avec ncurses. En local, il récupère les informations dans `/proc`. Il peut aussi interroger une machine distante et passer d’une machine à l’autre dans la même interface.
 
 ## Lancer le programme
